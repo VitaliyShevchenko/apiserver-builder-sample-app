@@ -1,0 +1,5 @@
+apiVersion: petproject.shevchenkovitalii.com/v1
+kind: Actor
+metadata:
+  name: actor-example
+spec:
